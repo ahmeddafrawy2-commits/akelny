@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126978755919",
+    "project_id": "akelny-7eaaf",
+    "storage_bucket": "akelny-7eaaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126978755919:android:4915a717927bfee859493a",
+        "android_client_info": {
+          "package_name": "com.example.akelny"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZJ8HaUpvTBECMsQJKpLitJl7sIV4hm2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
